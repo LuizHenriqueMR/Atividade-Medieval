@@ -1,0 +1,11 @@
+
+
+ Como compilar
+```bash
+javac game/MainProjeto1.java game/factory/*.java game/personagens/*.java game/armas/*.java
+```
+
+ Como executar
+```bash
+java game.MainProjeto1
+```
